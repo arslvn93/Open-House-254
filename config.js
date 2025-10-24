@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "584 Jessup St",
     "city": "Prescott",
@@ -121,4 +121,4 @@
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse"
   }
-}
+};
